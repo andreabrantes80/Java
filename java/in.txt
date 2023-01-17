@@ -1,0 +1,9 @@
+Juliana Melo,4300.00
+Alex Texeira,3100.00
+Bob Grey,3100.00
+Ana Pontes,3500.00
+Alex Barros,2450.00
+Eduardo Barreto,4390.00
+Willian Marcos,2900.00
+Marta Rocha,6100.00
+Adriana Sales,5000.00

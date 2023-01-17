@@ -35,7 +35,7 @@ public class Employee implements Comparable<Employee>{
         //odernar os funcionarios por salário
         //return  salary.compareTo(other.getSalary());
         
-        //odernar os funcionarios por salário em salarios decrescentes é só colocar o -
+        //odernar os funcionarios por salário em ordem decrescentes é só colocar o (-).
         //return - salary.compareTo(other.getSalary());
         
         //ordenar por nome em ordem alfabética
